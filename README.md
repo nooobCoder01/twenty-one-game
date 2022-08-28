@@ -12,3 +12,7 @@ Rules are as following:
   has finished rolling.
 - If all players go bust, no one wins.
 - If more than one player has the winning score, no one wins.
+
+
+To play the game. Just downlaod the 21.py pyhton file and run it. You will be asked for inputs while playing.
+ENJOY! :)
